@@ -78,9 +78,9 @@ const AboutSection = () => {
                         </p>
 
                         <div className="pt-4 flex justify-center lg:justify-start">
-                            <Link to={"/about"}>
+                            <Link to={"/contact"}>
                                 <button className="flex items-center bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-md transition-all duration-300 shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
-                                    KNOW MORE
+                                    Contact Us
                                     <ArrowRight className="ml-2 w-5 h-5" />
                                 </button>
                             </Link>
