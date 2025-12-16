@@ -15,7 +15,7 @@ const ServicesSection = () => {   // <-- YE LINE MISSING THI
     const services = [
         {
             id: 1,
-            title: "ADVANCED SEO",
+            title: "AI SEO Optimization System",
             description: "We optimize your website for higher rankings and targeted traffic by analyzing search patterns and identifying high-impact keywords.",
             mainIcon: <Search className="w-8 h-8 text-white" />,
             features: ["Keyword Research", "On-Page SEO", "Technical SEO", "Link Building"],

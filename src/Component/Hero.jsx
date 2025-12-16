@@ -24,17 +24,12 @@ const Hero = () => {
       {/* --- CONTENT SECTION --- */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center min-h-[600px] text-center">
         
-        {/* Badge / Small Tag */}
-        <div className="inline-flex items-center px-4 py-2 rounded-full border border-green-400 bg-green-800/30 text-green-50 text-sm font-semibold mb-8 backdrop-blur-sm">
-          <TrendingUp className="w-4 h-4 mr-2" />
-          <span>Elevating Local Businesses</span>
-        </div>
 
         {/* Main Heading */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white tracking-tight leading-tight mb-6 drop-shadow-lg">
-          Accelerate Your Growth with <br className="hidden md:block" />
+          Automating Local Business Growth <br className="hidden md:block" />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-50 to-green-200">
-            AI-Powered Digital Solutions
+             with an AI-Powered Platform
           </span>
         </h1>
 

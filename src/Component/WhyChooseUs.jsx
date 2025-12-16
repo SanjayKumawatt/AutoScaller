@@ -18,7 +18,7 @@ const WhyChooseUs = () => {
             description: "Choose from fixed monthly fees or revenue-based models designed to suit startups and established businesses alike."
         },
         {
-            title: "Proven Success with AI",
+            title: "Early-stage Success with AI",
             description: "Our AI-driven approaches have consistently delivered measurable growth and high ROI for our clients."
         }
     ];

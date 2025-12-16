@@ -70,11 +70,11 @@ const AboutSection = () => {
                         </h2>
 
                         <p className="text-lg text-gray-600 leading-relaxed">
-                            At <span className="font-semibold text-gray-800">Autoskaler</span>, we leverage the transformative power of Artificial Intelligence to propel local businesses toward unprecedented success.
+                            <span className="font-semibold text-gray-800">Autoskaler</span>is an early-stage AI startup building a cloud-native platform that helps local businesses automate and optimize their digital growth.  
                         </p>
 
                         <p className="text-gray-600 leading-relaxed">
-                            Our comprehensive suite of AI-driven services-ranging from <span className="text-green-600 font-medium">Advanced SEO</span> and <span className="text-green-600 font-medium">Content Creation</span> to <span className="text-green-600 font-medium">Custom AI Tools</span> and <span className="text-green-600 font-medium">Web & App Development</span>-is designed to bridge language barriers. Whether targeting audiences in English, Hindi, Punjabi, or Spanish, we help you connect with your ideal customers, amplify your digital footprint, and achieve sustainable, long-term growth.
+                            Our platform integrates AI-driven optimization, automated content generation, and data-backed insights into a single system designed for scalability and minimal manual effort.Our AI models support multilingual content generation and optimization across English, Hindi, Punjabi, and Spanish.
                         </p>
 
                         <div className="pt-4 flex justify-center lg:justify-start">

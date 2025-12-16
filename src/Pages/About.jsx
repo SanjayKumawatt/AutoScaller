@@ -30,7 +30,7 @@ const About = () => {
             About <span className="text-green-400">AUTOSKALER</span>
           </h1>
           <p className="max-w-2xl mx-auto text-xl text-green-100 leading-relaxed">
-            Bridging the gap between technological excellence and local business growth through AI-powered solutions.
+            Building an AI-powered, cloud-native platform to automate local business growth.
           </p>
         </div>
       </div>
@@ -59,7 +59,7 @@ const About = () => {
                 Autoskaler began with a simple idea: a vision to bridge technological excellence with digital development practices. The name "Autoskaler" represents our commitment to helping businesses scale automatically through smart technology.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                What started as a small initiative has grown into a full-service digital transformation agency, guided by the philosophy that knowledge is only powerful when implemented effectively.
+                What started as a small initiative has evolved into an early-stage AI startup focused on automation-first digital growth systems. guided by the philosophy that knowledge is only powerful when implemented effectively.
               </p>
             </div>
 
@@ -125,7 +125,7 @@ const About = () => {
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center text-white">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Let's Work Together</h2>
           <p className="text-xl text-green-100 mb-8 leading-relaxed">
-            Whether you're looking to increase your online visibility, need help with digital marketing, or want to modernize your business systems, we're here to help you achieve your goals.
+           Join our early access program and explore Autoskaler's AI-powered platform. we're here to help you achieve your goals.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">
